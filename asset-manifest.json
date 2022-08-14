@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/space_x/static/css/main.4b6f6149.css",
+    "main.js": "/space_x/static/js/main.2193d000.js",
+    "static/media/background.png": "/space_x/static/media/background.7479b9c3d3ceb4b3698f.png",
+    "static/media/MuseoSansCyrl300.otf": "/space_x/static/media/MuseoSansCyrl300.7ad0ee61438149bf013a.otf",
+    "static/media/MuseoSansCyrl700.eot": "/space_x/static/media/MuseoSansCyrl700.9f4928fde13fe6a09d39.eot",
+    "static/media/MuseoSansCyrl300.ttf": "/space_x/static/media/MuseoSansCyrl300.f55cbd6c72bf488b5c7f.ttf",
+    "static/media/MuseoSansCyrl700.ttf": "/space_x/static/media/MuseoSansCyrl700.4407722f22c0457d4687.ttf",
+    "static/media/MuseoSansCyrl700.woff": "/space_x/static/media/MuseoSansCyrl700.d44c59f0dce3522acf45.woff",
+    "static/media/MuseoSansCyrl300.woff": "/space_x/static/media/MuseoSansCyrl300.009af5051e58a1cf5c8c.woff",
+    "index.html": "/space_x/index.html",
+    "main.4b6f6149.css.map": "/space_x/static/css/main.4b6f6149.css.map",
+    "main.2193d000.js.map": "/space_x/static/js/main.2193d000.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b6f6149.css",
+    "static/js/main.2193d000.js"
+  ]
+}
