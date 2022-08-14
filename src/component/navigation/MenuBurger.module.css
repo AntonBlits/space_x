@@ -1,0 +1,39 @@
+
+.menuBurger {
+   display: none;
+   cursor: pointer;
+}
+
+.menuBurger::after {
+   content: '';
+   width: 20px;
+   height: 2px;
+   background-color: white;
+   position: absolute;
+   top: 30px;
+   right: 30px;
+}
+.menuBurger::before {
+   content: '';
+   width: 20px;
+   height: 2px;
+   background-color: white;
+   position: absolute;
+   top: 50px;
+   right: 30px;
+}
+.menuBurger span {
+   width: 20px;
+   height: 2px;
+   background-color: white;
+   position: absolute;
+   top: 40px;
+   right: 30px;
+}
+
+
+@media (max-width: 1035px) {
+   .menuBurger {
+      display: block;
+   }
+}

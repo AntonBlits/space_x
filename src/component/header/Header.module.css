@@ -1,0 +1,21 @@
+.header {
+   display: flex;
+   justify-content:space-between;
+   align-items: center;
+   width: 100%;
+}
+
+.logo {
+   width: 300px;
+   line-height: 100px;
+   text-align: center;
+   padding: 5px 0px 0px 12px;
+   border: 0.5px solid #313033;
+   background-image: linear-gradient(to right, #fff 10px, transparent 10px, transparent 300px, #fff 300px),
+   linear-gradient(to right, #fff 10px, transparent 10px, transparent 300px, #fff 290px),
+   linear-gradient(to bottom, #fff 10px, transparent 10px, transparent 95px, #fff 70px),
+   linear-gradient(to bottom, #fff 10px, transparent 10px, transparent 95px, #fff 70px);
+   background-size: 100% 1px, 100% 1px, 1px 100%, 1px 100%;
+   background-position: 0 0, 0 100%, 0 0, 100% 0;
+   background-repeat: no-repeat;
+}
